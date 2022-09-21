@@ -29,7 +29,7 @@
     "@angular/platform-browser": "^13",
     "@angular/platform-browser-dynamic": "^13",
     "@angular/router": "^13",
-    "font-awesome": "^4.7.0",
+    "font-awesome": "github:ivhh/FA5PRO",
     "rxjs": "~6.5.4",
     "tslib": "^2.4.0",
     "zone.js": "~0.11.4"
